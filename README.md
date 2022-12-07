@@ -1,5 +1,5 @@
 # app-dev
 My first repository
 ## Series/Movie
-**Wednesday**
+**Wednesday,**
 **Black Phanter:Wakanda Forever**
